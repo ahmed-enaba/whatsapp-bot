@@ -86,6 +86,11 @@ The app allows users to send WhatsApp messages easily using either a phone numbe
 ### Convert to .exe
 
 ---
+## ⬇️ Download
+
+[Download App](https://github.com/username/repo/releases)
+
+---
 
 # 👨‍💻 Author
 
