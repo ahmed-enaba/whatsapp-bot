@@ -88,7 +88,7 @@ The app allows users to send WhatsApp messages easily using either a phone numbe
 ---
 ## ⬇️ Download
 
-[Download App]([https://github.com/username/repo/releases](https://github.com/ahmed-enaba/whatsapp-bot-exe/releases/tag/v1.0))
+[Download App](https://github.com/ahmed-enaba/whatsapp-bot-exe/releases/tag/v1.0)
 
 ---
 
